@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://lancasterplumbersco.com/sitemap.xml
